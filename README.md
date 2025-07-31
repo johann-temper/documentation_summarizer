@@ -11,7 +11,7 @@ Therefore im running two different Methods:
 
 Currently it is a CLI-Tool, but in future i plan to integrate it as a Webtool.
 
-[johann-temper Repo]([URL tbd](https://github.com/johann-temper/documentation_summarizer))
+[Link to Github Repo](https://github.com/johann-temper/documentation_summarizer)
 
 
 > This is project **#1**
