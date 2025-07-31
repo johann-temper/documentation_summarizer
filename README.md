@@ -11,15 +11,8 @@ Therefore im running two different Methods:
 
 Currently it is a CLI-Tool, but in future i plan to integrate it as a Webtool.
 
-[JoTem Repo](URL tbd)
+[johann-temper Repo]([URL tbd](https://github.com/johann-temper/documentation_summarizer))
 
-Here is some `code`.
-
-```python
-author = 'JoTem'
-```
-
-![alt text](http://picsum.photos/200/200)
 
 > This is project **#1**
 
