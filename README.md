@@ -1,6 +1,6 @@
 # documentation_summarizer
 
-## *by JoTem*
+## *by johann-temper*
 
 I created a Little tool, to summarize technical documentations automatically using LLM SSL.
 
